@@ -17,7 +17,8 @@ I will be stating some facts based on data analysed for Airbnb data acquired for
 
 ### Contents
     
-    File: airbnb_analysis.ipnyb 
+    File: airbnb_analysis.ipnyb
+    File: airbnb_analysis.html
     File: README.md
     Data: Airbnb_data.zip -> calendar.csv
                           -> listings.csv
