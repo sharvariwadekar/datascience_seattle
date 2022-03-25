@@ -27,9 +27,8 @@ https://medium.com/@sharvari.wagle1689/all-you-need-to-know-about-airbnb-data-se
 
 
 ###  Summary
-•	December is the most busiest time of the year.
-•	$91.881 is the average price per month in 2016.
-•	Price doesn’t affect rating given by user.
-•	Lower priced listing hosts respond quicker.
-•	There is a strong correlation between accommodates, bathrooms, price, bedrooms, beds, weekly_price and monthly_price
-
+-	December is the most busiest time of the year.
+-	$91.88 is the average price per month in 2016.
+-	Price doesn’t affect rating given by user.
+-	Lower priced listing hosts respond quicker.
+-	There is a strong correlation between accommodates, bathrooms, price, bedrooms, beds, weekly_price and monthly_price
